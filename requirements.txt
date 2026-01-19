@@ -594,3 +594,4 @@ zipp==3.21.0
     # via importlib-metadata
 scikit-learn==1.6.1
 nltk==3.9.1
+accelerate==1.10.1
